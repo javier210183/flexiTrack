@@ -1,0 +1,6 @@
+javier,javier.com,1234
+UpdatedName,updated@user.com,newpassword
+TestUser,test@user.com,password
+jessica,jessica@hotmail.com,1234
+ultimaPrueba,prueba,prueba
+ares,ares@gmail.com,1234
